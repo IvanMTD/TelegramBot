@@ -1,0 +1,1 @@
+worker: java -jar out/artifacts/TelegramBot_jar/TelegramBot.jar
